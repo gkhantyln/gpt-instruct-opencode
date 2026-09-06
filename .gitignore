@@ -1,0 +1,7 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+*.log
+.DS_Store
+*.bak_*
+.gpt56-*-state.json

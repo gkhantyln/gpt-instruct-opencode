@@ -1,0 +1,9 @@
+c71c50e2f7a303b5eebc2b24c0b1ca0d9c753e3240db05c3e472c679907898f7  SKILL_TEMPLATE/gpt-instruct/prompts/gpt-5.6-sol-v45.md (5170 B) — gpt-5.6-sol-v45 stable
+39fb46d6edc75963677fd92828dcb6c66dce11740b432efda3af9a683158ce16  SKILL_TEMPLATE/gpt-instruct/prompts/gpt-6-astra-v1.md (7495 B) — gpt-6-astra-v1 formal e2b19
+dc0bc46a77b6ac092a0f28e031a6af8393636a5df849d697a8be38644bbb8bf2  SKILL_TEMPLATE/gpt-instruct/src/opencode_instruct.py (45801 B) — utf-8-sig + --yes fix
+767aa1ddc8db4faefb3adb8548a7e28b99c8ef83bb106cd434fc0a6d0c558e6c  SKILL_TEMPLATE/gpt-instruct/SKILL.md (5201 B)
+
+# Dogrulama:
+# certutil -hashfile "SKILL_TEMPLATE\gpt-instruct\prompts\gpt-5.6-sol-v45.md" SHA256
+# certutil -hashfile "SKILL_TEMPLATE\gpt-instruct\prompts\gpt-6-astra-v1.md" SHA256
+# Kaynak: MDX-Tom/gpt-instruct — bytes degistirilmedi, sadece kopyalandi

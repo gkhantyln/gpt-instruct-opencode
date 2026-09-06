@@ -1,0 +1,9 @@
+{
+  "hint": "Bu dosya şablon — gerçek kurulum opencode.jsonc içindeki instructions dizisine yazar",
+  "example": {
+    "instructions": [
+      "./gpt-5.6-sol-v45.md"
+    ],
+    "alternatif": "./gpt-6-astra-v1.md"
+  }
+}
